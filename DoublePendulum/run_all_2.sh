@@ -1,0 +1,2 @@
+python bcq_doublependulum_expert.py
+python awac_doublependulum_expert.py
