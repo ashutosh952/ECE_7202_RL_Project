@@ -1,0 +1,2 @@
+python cql_pendulum_expert.py
+python bear_pendulum_expert.py

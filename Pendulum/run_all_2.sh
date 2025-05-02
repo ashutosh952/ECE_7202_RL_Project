@@ -1,0 +1,2 @@
+python bcq_pendulum_expert.py
+python awac_pendulum_expert.py
