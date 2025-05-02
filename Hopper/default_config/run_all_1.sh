@@ -1,0 +1,2 @@
+python bear_hopper_medium.py
+python cql_hopper_medium.py
