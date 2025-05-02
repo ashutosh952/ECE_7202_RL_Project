@@ -1,0 +1,2 @@
+python cql_hopper_expert.py
+python bear_hopper_expert.py

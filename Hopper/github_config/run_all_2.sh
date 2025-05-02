@@ -1,0 +1,2 @@
+python bcq_hopper_expert.py
+python awac_hopper_expert.py
